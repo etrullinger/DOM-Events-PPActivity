@@ -19,3 +19,44 @@ function smallerText() {
     text.style.fontSize = (currentSize - 8) + 'px';
     }
 };
+
+
+// // James Yeates' Demo
+// let state = {
+//     counter: 0,
+//     fontSize: 16,
+//     backgroundColor: 'red'
+// }
+
+// function increment() {
+//     state.counter++
+// }
+
+// increment();
+// console.log(state);
+
+// // defining the function to increase size
+// function increaseFontSize() {
+//     if(state.fontSize < 100);
+//     state.fontSize++;
+// }
+
+// // defining the function to decrease size
+// function decreaseFontSize() {
+//     if(state.fontSize > 1);
+//     state.fontSize--;
+// }
+
+// // calling function to test to see if they are working
+// increaseFontSize();
+// console.log(state);
+
+// decreaseFontSize();
+// console.log(state);
+
+// function changeBackground(color) {
+//     state.backgroundColor = color;
+// }
+
+// changeBackground('green');
+// console.log(state);
