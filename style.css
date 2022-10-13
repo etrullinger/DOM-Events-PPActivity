@@ -1,0 +1,13 @@
+#output-box {
+    margin: 0.5rem;
+    border: 1px solid black;
+    width: 19.75rem;
+    height: 19.75rem;
+    display: flex;
+    justify-content: center;
+}
+
+#output {
+    align-self: center;
+    font-size: 200px;
+}
