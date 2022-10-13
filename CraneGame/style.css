@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+#craneBox {
+    width: 75vw;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+}
+
+#crane {
+    width: 50vw;
+    align-self: center;
+}
+
+button {
+    margin: 1rem 0;
+}
